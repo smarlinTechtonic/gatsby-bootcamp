@@ -30,6 +30,7 @@ _Have another more specific idea? You may want to check out our vibrant collecti
     ```shell
     cd my-hello-world-starter/
     gatsby develop
+    npm run develop once you have an .environment file!
     ```
 
 1.  **Open the source code and start editing!**

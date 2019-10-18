@@ -1,0 +1,24 @@
+.blogPosts {
+    list-style-type: none;
+    margin: 0;
+}
+
+.title {
+    text-decoration: none;
+    color: #666666;
+}
+
+.date {
+    margin-top: -20px;
+    color: #999999;
+}
+
+.item {
+    margin: 1rem 0;
+    background: #f4f4f4;
+    padding: 1rem;
+}
+
+.item:hover {
+    background: #dad6d6;
+}
